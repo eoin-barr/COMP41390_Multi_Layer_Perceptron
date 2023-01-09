@@ -1,0 +1,178 @@
+Constants:
+
+Input Units:		2
+Output Units:		1
+Hidden Units:		7
+
+**************************************************************
+
+Learning Rate:	0.05
+
+
+Pre-Training:
+
+Target:	[0] | Predicted:	[0.82639673]
+Target:	[1] | Predicted:	[0.86961216]
+Target:	[1] | Predicted:	[0.86646291]
+Target:	[0] | Predicted:	[0.89865179]
+
+
+Training:
+
+Epoch:	100     | Error:	0.5009014743277478
+Epoch:	1000    | Error:	0.5003285389891338
+Epoch:	10000   | Error:	0.2763458253134452
+Epoch:	100000  | Error:	0.02030588999854637
+Epoch:	1000000 | Error:	0.005310592561809996
+
+
+Post Training:
+
+Target:	[0] | Predicted:	[0.00654019]
+Target:	[1] | Predicted:	[0.99475858]
+Target:	[1] | Predicted:	[0.99485221]
+Target:	[0] | Predicted:	[0.00431296]
+
+
+Accuracy:	0.9946894105162928
+
+
+**************************************************************
+
+
+Learning Rate:	0.25
+
+
+Pre-Training:
+
+Target:	[0] | Predicted:	[0.90091845]
+Target:	[1] | Predicted:	[0.94781206]
+Target:	[1] | Predicted:	[0.9471899]
+Target:	[0] | Predicted:	[0.96921824]
+
+
+Training:
+
+Epoch:	100     | Error:	0.4995771388214898
+Epoch:	1000    | Error:	0.4144484719322082
+Epoch:	10000   | Error:	0.03070772493161797
+Epoch:	100000  | Error:	0.00786662281435186
+Epoch:	1000000 | Error:	0.0021696206331174783
+
+
+Post Training:
+
+Target:	[0] | Predicted:	[0.00261658]
+Target:	[1] | Predicted:	[0.99787314]
+Target:	[1] | Predicted:	[0.99785597]
+Target:	[0] | Predicted:	[0.00179101]
+
+
+Accuracy:	0.9978303805105561
+
+
+**************************************************************
+
+
+Learning Rate:	0.5
+
+
+Pre-Training:
+
+Target:	[0] | Predicted:	[0.81341825]
+Target:	[1] | Predicted:	[0.84770259]
+Target:	[1] | Predicted:	[0.86293036]
+Target:	[0] | Predicted:	[0.88535723]
+
+
+Training:
+
+Epoch:	100     | Error:	0.4992380267123725
+Epoch:	1000    | Error:	0.23243710377751714
+Epoch:	10000   | Error:	0.025197819012238457
+Epoch:	100000  | Error:	0.006925673590942048
+Epoch:	1000000 | Error:	0.0018538025729969874
+
+
+Post Training:
+
+Target:	[0] | Predicted:	[0.0021211]
+Target:	[1] | Predicted:	[0.99819868]
+Target:	[1] | Predicted:	[0.99804615]
+Target:	[0] | Predicted:	[0.00153895]
+
+
+Accuracy:	0.9981461984254865
+
+
+**************************************************************
+
+
+Learning Rate:	0.75
+
+
+Pre-Training:
+
+Target:	[0] | Predicted:	[0.9018578]
+Target:	[1] | Predicted:	[0.92112496]
+Target:	[1] | Predicted:	[0.94041068]
+Target:	[0] | Predicted:	[0.95149145]
+
+
+Training:
+
+Epoch:	100     | Error:	0.5001361013245147
+Epoch:	1000    | Error:	0.16843566559057108
+Epoch:	10000   | Error:	0.020317045554918003
+Epoch:	100000  | Error:	0.005639312853865352
+Epoch:	1000000 | Error:	0.0014755944870681794
+
+
+Post Training:
+
+Target:	[0] | Predicted:	[0.00143106]
+Target:	[1] | Predicted:	[0.9986497]
+Target:	[1] | Predicted:	[0.99834759]
+Target:	[0] | Predicted:	[0.00146861]
+
+
+Accuracy:	0.9985244063272694
+
+
+**************************************************************
+
+
+Learning Rate:	1
+
+
+Pre-Training:
+
+Target:	[0] | Predicted:	[0.87512269]
+Target:	[1] | Predicted:	[0.90279433]
+Target:	[1] | Predicted:	[0.92811793]
+Target:	[0] | Predicted:	[0.94228238]
+
+
+Training:
+
+Epoch:	100     | Error:	0.4972367629180021
+Epoch:	1000    | Error:	0.08016459064476897
+Epoch:	10000   | Error:	0.01658907900955314
+Epoch:	100000  | Error:	0.005014381304452601
+Epoch:	1000000 | Error:	0.0014251176200480045
+
+
+Post Training:
+
+Target:	[0] | Predicted:	[0.00194633]
+Target:	[1] | Predicted:	[0.99853787]
+Target:	[1] | Predicted:	[0.99858213]
+Target:	[0] | Predicted:	[0.00087415]
+
+
+Accuracy:	0.9985748833276346
+
+
+**************************************************************
+
+

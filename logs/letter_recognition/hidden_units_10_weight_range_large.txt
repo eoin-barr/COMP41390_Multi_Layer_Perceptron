@@ -1,0 +1,1729 @@
+Constants:
+
+Input Units:		16
+Output Units:		26
+Hidden Units:		10
+Weight Range:		large
+
+**************************************************************
+
+Learning Rate:	5e-06
+
+
+
+Training:
+
+Epochs: 0.7898316014186372	|	Error: 500
+
+Epochs: 0.5860925050284053	|	Error: 1000
+
+Epochs: 0.5860625409238035	|	Error: 1500
+
+Epochs: 0.551721503516485	|	Error: 2000
+
+Epochs: 0.5176333909719022	|	Error: 2500
+
+Epochs: 0.5176076360317994	|	Error: 3000
+
+Epochs: 0.4837155539374991	|	Error: 3500
+
+Epochs: 0.4836852966989373	|	Error: 4000
+
+Epochs: 0.4493881414451071	|	Error: 4500
+
+Epochs: 0.41515798114976676	|	Error: 5000
+
+Epochs: 0.34651946192343996	|	Error: 5500
+
+Epochs: 0.3465141884568704	|	Error: 6000
+
+Epochs: 0.3464955524137116	|	Error: 6500
+
+Epochs: 0.3126391881778683	|	Error: 7000
+
+Epochs: 0.31263859278000644	|	Error: 7500
+
+Epochs: 0.3126378942667271	|	Error: 8000
+
+Epochs: 0.31263706098829613	|	Error: 8500
+
+Epochs: 0.3126360461586192	|	Error: 9000
+
+Epochs: 0.31263477721732646	|	Error: 9500
+
+Epochs: 0.31263313444833507	|	Error: 10000
+
+
+
+Testing output
+
+Target: U 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+
+
+Accuracy:	0.0405
+
+
+
+
+**************************************************************
+
+
+Learning Rate:	1e-06
+
+
+
+Training:
+
+Epochs: 0.926026827207949	|	Error: 500
+
+Epochs: 0.8239833046991334	|	Error: 1000
+
+Epochs: 0.7564838650457556	|	Error: 1500
+
+Epochs: 0.7564633059317902	|	Error: 2000
+
+Epochs: 0.7564294143265691	|	Error: 2500
+
+Epochs: 0.7563573085730891	|	Error: 3000
+
+Epochs: 0.7559117699602765	|	Error: 3500
+
+Epochs: 0.7217716282211126	|	Error: 4000
+
+Epochs: 0.6542708452960607	|	Error: 4500
+
+Epochs: 0.6542627391090513	|	Error: 5000
+
+Epochs: 0.6542520617850947	|	Error: 5500
+
+Epochs: 0.6542371895596473	|	Error: 6000
+
+Epochs: 0.6542146374230609	|	Error: 6500
+
+Epochs: 0.6541750574605659	|	Error: 7000
+
+Epochs: 0.6540788766131239	|	Error: 7500
+
+Epochs: 0.6486010889251038	|	Error: 8000
+
+Epochs: 0.5855360097109256	|	Error: 8500
+
+Epochs: 0.5517326574963691	|	Error: 9000
+
+Epochs: 0.5517255681763642	|	Error: 9500
+
+Epochs: 0.5517158125360936	|	Error: 10000
+
+
+
+Testing output
+
+Target: U 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Z 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: H 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: Y 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: N 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: F 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: P 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: O 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: R 	|	 Prediction: M
+
+Target: L 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: B 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: E 	|	 Prediction: M
+
+Target: J 	|	 Prediction: M
+
+Target: I 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: W 	|	 Prediction: M
+
+Target: X 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: M 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: S 	|	 Prediction: M
+
+Target: A 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: U 	|	 Prediction: M
+
+Target: T 	|	 Prediction: M
+
+Target: C 	|	 Prediction: M
+
+Target: Q 	|	 Prediction: M
+
+Target: V 	|	 Prediction: M
+
+Target: G 	|	 Prediction: M
+
+Target: K 	|	 Prediction: M
+
+Target: D 	|	 Prediction: M
+
+
+
+Accuracy:	0.0405
+
+
+
+
+**************************************************************
+
+
