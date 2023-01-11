@@ -12,8 +12,8 @@ The MLP successfully generalized to each of the tasks and achieved accuracies of
 
 ### Sin
 
-![XOR](https://res.cloudinary.com/dk0r9bcxy/image/upload/v1673478664/portfolio-website/SIN_bqf2a1.png)
+![SIN](https://res.cloudinary.com/dk0r9bcxy/image/upload/v1673478664/portfolio-website/SIN_bqf2a1.png)
 
 ### Letter Recognition
 
-![XOR](https://res.cloudinary.com/dk0r9bcxy/image/upload/v1673478664/portfolio-website/letter_cb9of2.png)
+![Letter Recognition](https://res.cloudinary.com/dk0r9bcxy/image/upload/v1673478664/portfolio-website/letter_cb9of2.png)
